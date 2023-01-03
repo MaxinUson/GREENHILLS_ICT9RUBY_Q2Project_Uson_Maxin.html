@@ -1,0 +1,52 @@
+<html>
+<head>
+	<title>Burger King Menu</title>
+</head>
+<body bgcolor="red">
+	<h1 align="center">Burger King Specials</h1>
+	<table bgcolor="orange"border="1" align="center">
+	<tr>
+	<th colspan="9">Burgers</th>
+	</tr>
+	<tr>
+		<td>4 Cheese Whopper</td>
+		<td>Whopper</td>
+		<td>X-tra Long Chicken</td>
+	</tr>
+	<tr>
+		<td><img src="file:///var/folders/68/38vsssb97mj7pbrr8lsc00zh0000gn/T/TemporaryItems/NSIRD_screencaptureui_KrwPAF/Screen%20Shot%202023-01-03%20at%205.17.39%20PM.png"width="150"height="150"></td>
+		<td><img src="file:///var/folders/68/38vsssb97mj7pbrr8lsc00zh0000gn/T/TemporaryItems/NSIRD_screencaptureui_VcOe7y/Screen%20Shot%202023-01-03%20at%205.19.21%20PM.png" width="150" height="150"></td>
+		<td><img src="file:///var/folders/68/38vsssb97mj7pbrr8lsc00zh0000gn/T/TemporaryItems/NSIRD_screencaptureui_9ICK3n/Screen%20Shot%202023-01-03%20at%205.20.20%20PM.png" width="150"height="150"></td>
+	</tr>
+	<tr>
+		<td><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/Order%20now">ORDER NOW</a></td>
+		<td><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/Order%20now">ORDER NOW</a></td>
+		<td><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/Order%20now">ORDER NOW</a></td>
+	</tr>	
+	</table>
+<table bgcolor="orange"border="1" align="center">
+	<tr>
+	<th colspan="9">Ulttimate Sidekicks</th>
+	</tr>
+	<tr>
+		<td>Thick-Cut Fries</td>
+		<td>Onion Rings</td>
+		<td>Chicken Nuggets</td>
+	</tr>
+	<tr>
+		<td><img src="file:///var/folders/68/38vsssb97mj7pbrr8lsc00zh0000gn/T/TemporaryItems/NSIRD_screencaptureui_EfOPpk/Screen%20Shot%202023-01-03%20at%205.24.48%20PM.png"width="150"height="150"></td>
+		<td><img src="file:///var/folders/68/38vsssb97mj7pbrr8lsc00zh0000gn/T/TemporaryItems/NSIRD_screencaptureui_ZY6rVR/Screen%20Shot%202023-01-03%20at%205.25.06%20PM.png" width="150" height="150"></td>
+		<td><img src="file:///var/folders/68/38vsssb97mj7pbrr8lsc00zh0000gn/T/TemporaryItems/NSIRD_screencaptureui_dol4Cn/Screen%20Shot%202023-01-03%20at%205.25.33%20PM.png" width="150"height="150"></td>
+	</tr>
+	<tr>
+		<td><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/Order%20now">ORDER NOW</a></td>
+		<td><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/Order%20now">ORDER NOW</a></td>
+		<td><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/Order%20now">ORDER NOW</a></td>
+	</tr>	
+	</table>
+
+
+
+
+</body>
+</html>
